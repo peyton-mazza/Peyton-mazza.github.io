@@ -1,1 +1,42 @@
-
+<style>
+img{
+    height: 125px;
+}
+h1 {
+    color: rgb(1,45,91);
+    font-size: 45pt;
+}
+h2 {
+    color: rgb(79, 116, 139);
+    font-size: 35pt;
+}
+h3 {
+    text-decoration: underline;
+}
+body { 
+    background-color: rgb(247, 250, 232);
+}
+p {
+    font-style: italics;
+}
+#contactinfo {
+    border: 4px solid grey;
+    margin: 2px;
+}
+#education {
+    border: 4px solid grey;
+    margin: 2px;
+}
+#experience { 
+    border: 4px solid grey; 
+    margin: 2px;
+}
+#skills {
+    border: 4px solid grey;
+    margin 2px;
+}
+nav {
+    font-color: rgd(1, 45, 91);
+    border: 4px solid grey;
+}
+</style>
